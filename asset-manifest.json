@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/css/main.cf2da710.chunk.css",
+    "main.js": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/main.eaffd8dd.chunk.js",
+    "main.js.map": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/main.eaffd8dd.chunk.js.map",
+    "runtime-main.js": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/runtime-main.40068a31.js",
+    "runtime-main.js.map": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/runtime-main.40068a31.js.map",
+    "static/js/2.a6004cf5.chunk.js": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/2.a6004cf5.chunk.js",
+    "static/js/2.a6004cf5.chunk.js.map": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/2.a6004cf5.chunk.js.map",
+    "index.html": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/index.html",
+    "static/css/main.cf2da710.chunk.css.map": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/css/main.cf2da710.chunk.css.map",
+    "static/js/2.a6004cf5.chunk.js.LICENSE.txt": "https://suyash-chandra-sapiens.github.io/csb-gpn3on/static/js/2.a6004cf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40068a31.js",
+    "static/js/2.a6004cf5.chunk.js",
+    "static/css/main.cf2da710.chunk.css",
+    "static/js/main.eaffd8dd.chunk.js"
+  ]
+}
